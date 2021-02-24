@@ -1,1 +1,1 @@
-select * from teran
+select * from teran where id = "sam"
